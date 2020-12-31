@@ -1,0 +1,23 @@
+button {   
+    background-color: #4CAF50;   
+    width: 20%;  
+    color: black;   
+    padding: 10px;   
+    margin: 5px 0px;   
+    border: none;   
+    cursor: pointer;   
+}   
+
+input[type=text], input[type=password] {   
+     width: 360px;   
+     margin: 8px 0;  
+     padding: 12px 20px;   
+     border: 2px solid green;   
+ }   
+  
+.container {   
+     padding: 25px;
+     margin-top: 12%;
+     margin-left: 33%;
+     width: 30%;
+}   
